@@ -1,0 +1,19 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.container {
+  min-height: 80vh;
+}
+
+footer button {
+  margin-top: 10px;
+}
